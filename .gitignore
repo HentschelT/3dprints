@@ -1,1 +1,4 @@
 *.skb
+*~.skp
+/.project
+/.DS_Store
